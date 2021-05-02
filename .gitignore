@@ -1,7 +1,7 @@
 # setuptools
 dist
 build
-make_deb.egg-info
+*.egg-info
 
 # virtualenv
 venv
@@ -11,3 +11,5 @@ venv
 
 # python
 *pyc
+
+.idea/
